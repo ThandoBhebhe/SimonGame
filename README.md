@@ -15,6 +15,6 @@ But dont for forget about the previos button
 Keep clicking buttons in sequence and reach the highest level you can
 
 
-#Known issues
+# Known issues
 
 game sometimes wont show animations
